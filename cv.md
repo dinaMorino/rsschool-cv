@@ -1,4 +1,4 @@
-# Alisa Gayfulina
+# Alisa Gayfulina ![my photo](my-photo.jpg)
 ***
 ### Junior Frontend Developer
 ***
